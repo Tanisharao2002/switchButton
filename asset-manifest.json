@@ -1,16 +1,18 @@
 {
   "files": {
     "main.css": "/switchButtons/static/css/main.073c9b0a.css",
-    "main.js": "/switchButtons/static/js/main.d545343e.js",
+    "main.js": "/switchButtons/static/js/main.bc2fbfaf.js",
     "static/js/787.47390cf9.chunk.js": "/switchButtons/static/js/787.47390cf9.chunk.js",
+    "static/media/lightbulbon.png": "/switchButtons/static/media/lightbulbon.56b1ad57b3e483924fa4.png",
+    "static/media/lightbulboff.png": "/switchButtons/static/media/lightbulboff.7529978559f60ea86b1d.png",
     "static/media/logo.svg": "/switchButtons/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/switchButtons/index.html",
     "main.073c9b0a.css.map": "/switchButtons/static/css/main.073c9b0a.css.map",
-    "main.d545343e.js.map": "/switchButtons/static/js/main.d545343e.js.map",
+    "main.bc2fbfaf.js.map": "/switchButtons/static/js/main.bc2fbfaf.js.map",
     "787.47390cf9.chunk.js.map": "/switchButtons/static/js/787.47390cf9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.d545343e.js"
+    "static/js/main.bc2fbfaf.js"
   ]
 }
