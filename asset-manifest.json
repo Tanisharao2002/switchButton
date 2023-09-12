@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.7de5e120.css",
+    "main.css": "/static/css/main.f5bfb950.css",
     "main.js": "/static/js/main.8c1d8b54.js",
     "static/js/787.47390cf9.chunk.js": "/static/js/787.47390cf9.chunk.js",
     "static/media/lightbulbon.png": "/static/media/lightbulbon.56b1ad57b3e483924fa4.png",
     "static/media/lightbulboff.png": "/static/media/lightbulboff.7529978559f60ea86b1d.png",
     "index.html": "/index.html",
-    "main.7de5e120.css.map": "/static/css/main.7de5e120.css.map",
+    "main.f5bfb950.css.map": "/static/css/main.f5bfb950.css.map",
     "main.8c1d8b54.js.map": "/static/js/main.8c1d8b54.js.map",
     "787.47390cf9.chunk.js.map": "/static/js/787.47390cf9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7de5e120.css",
+    "static/css/main.f5bfb950.css",
     "static/js/main.8c1d8b54.js"
   ]
 }
